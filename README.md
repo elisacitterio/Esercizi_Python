@@ -1,0 +1,2 @@
+# Esercizi_Python
+Miei_lavori_esercitazioni
